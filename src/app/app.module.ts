@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { ShoppingListComponent } from './shopping-list/shopping-list.component';
-import { RecipeBookComponent } from './recipe-book/recipe-book.component';
 import { HeaderComponent } from './header/header.component';
 import { RecipeComponent } from './recipe/recipe.component';
 import { RecipeListComponent } from './recipe/recipe-list/recipe-list.component';
